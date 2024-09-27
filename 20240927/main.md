@@ -19,12 +19,18 @@
 Outlook竟然关不了垃圾邮件。
 
 回答网友提问：
+
 $$
 \arctan \frac{1 + x}{1 - x}
-$$ 和 
+$$ 
+
+和 
+
 $$
 \arctan x
-$$ 为什么导数一样。
+$$ 
+
+为什么导数一样。
 
 怎么还没说完就下雨了。
 
@@ -58,4 +64,4 @@ A 怎么不更新不让玩。
 
 ---
 
-github 的 mathjax 怎么不懂 md 转义，非要 <code>$`</code>
+github 的 mathjax 怎么行内公式和 md 冲突就寄了，非要 <code>$`</code>. 快进到 katex.
