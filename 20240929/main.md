@@ -24,7 +24,7 @@
 想了个例子，比如用：
 
 $$
-\left\{\left(\frac{1}{n}, 2\right) \;\middle|\; n = 2, 3, \cdots \right\} \cup \left(-\frac{1}{114514}, \frac{1}{114514}\right)
+\left\{\left(\frac{1}{n}, \frac{3}{2}\right) \middle| \ n = 2, 3, \cdots \right\} \bigcup \left(-\frac{1}{114514}, \frac{1}{114514}\right)
 $$
 
 去覆盖 $[0, 1]$, 雀石能找到有限子覆盖。
@@ -35,5 +35,34 @@ $$
 
 cnblog 怎么要似了，吃瓜。竟然老的邪教文章被发现交了巨额罚款。年代太久账号密码都没了。验证码登录，“仅支持近期登录过的账号，您的账号需要使用密码或第三方登录”。死了算了，不如 github page 一根。
 
-向小药娘蘑菇学习拓扑。竟然是做量子的，小药娘群真的是藏龙卧虎呀。
+向蘑菇学习拓扑。小药娘群真的是藏龙卧虎呀。
 
+katex github 渲染不来。
+
+py 竟然有 set, 学到许多，但没树结构的 set. 玩了一会儿各种推导式，py 的 fp，`map`, `reduce`, `filter`. 看了闭包、decorator，lazy evaluation，怎么感觉都不是很常用。
+
+操作数指出，py的发明者不喜欢函数式，把 `reduce` 从标准库移除了。
+
+`*args` 和 `**kwargs`
+
+操作数指出还有 unpack operator 的用法. 以及我仿写 atcoder 的 ST 板子里把函数当参数，用模板和函数参数没区别。
+
+玩了会儿 meme generator.
+
+```
+meme generate petpet --images fungo.jpg
+```
+
+玩 clang-format. 操作数表示日常用，神！设置了 cpp 专属 tabsize.
+
+```json
+"[cpp]": {
+    "editor.tabSize": 2,
+    "editor.defaultFormatter": "xaver.clang-format",
+    "editor.formatOnSave": true
+}
+```
+
+换码风！
+
+溜点默雪的新制的冰。jijidown 下一下。
