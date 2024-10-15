@@ -36,9 +36,9 @@
 
 摆烂时间玩魔尺，拧了一个二乘二的锥状结构和半个二乘一的球状结构，竟然还能首尾相接。是不是该花点时间研究一套类似有机化学的命名法则了。
 
-![乱拧](620d40b7d048e7ce0237ba91f4a26043.jpg)
+![乱拧](image_00.jpg)
 
-![另一个视角](3G@7U(@DY7XHNYLJJM)FD$2.jpg)
+![另一个视角](image_01.jpg)
 
 晚上 torch 看到 creation ops 结束。A Visual Introduction to Differential Forms 看了点，鉴定为略低于 GRE 的阅读材料，非常合我的胃口。
 
@@ -54,4 +54,4 @@ Putting all of these pedagogical strategies together may result in an exposition
 
 花絮，逆天gpt，可见只是对人类拙劣的模仿罢了，什么时候才能 AGI.
 
-![逆天gpt回复](<B~@2RP[3DO)B]I47FS~AEYH.png>)
+![逆天gpt回复](image_02.png)

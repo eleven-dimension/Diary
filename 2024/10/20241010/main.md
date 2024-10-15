@@ -10,7 +10,7 @@ lc 讨论区没眼看，八八六。
 
 看微分几何。
 
-![alt text](image.png)
+![alt text](image_00.png)
 
 牛逼牛逼牛逼！
 

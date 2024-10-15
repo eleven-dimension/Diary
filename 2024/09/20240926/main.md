@@ -8,7 +8,7 @@
 
 早上群里得知 Particle Arts 竟然因为版权到期，新版本要删掉了。即使滑也打了好久。多好的歌，一开始虽然没多喜欢，但很耐听耐打。辛丑年苦手，但一个月前已经 pm 了。不想更新，以后离线打了。
 
-![Particle Arts](<(R03BZ{1W1RS{%TWHVI$(W5.jpg>)
+![Particle Arts](image_00.jpg)
 
 Remember?  
 Remember?  

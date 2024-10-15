@@ -19,7 +19,7 @@ sb lc 经典卡常，`unordered` 低人一等，换 python 过了。
 
 操作数改用 `string_view` 加 mask 过了。学到许多。
 
-![alt text](31ZGQSXnzPL._UX250_.jpg)
+![alt text](image_00.jpg)
 
 学爽了，吹爆这本，无需多言。
 
@@ -44,6 +44,6 @@ ParametricPlot3D[
 ]
 ```
 
-![output](image.png)
+![output](image_01.png)
 
 每日扔到 Q3Q4 题解里。progress 的脚本还写死了总题目数量，该写个爬虫了，明天再来吧家人们。

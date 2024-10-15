@@ -66,7 +66,7 @@ $$
 
 ---
 
-![alt text](image.png)
+![alt text](image_00.png)
 
 太哈人了，$\xi$ 博士，你有考虑过孔子的感受吗？
 
