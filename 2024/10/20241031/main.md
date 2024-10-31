@@ -16,6 +16,6 @@ The Letter. 写点 notes.
 
 回看，八字相似度高长相相似度也高，和外婆几乎一致。
 
-![西多妮·加布里埃尔·科莱特](https://media.newyorker.com/photos/6372c083f6225a8c64446eb3/master/w_1920,c_limit/LaPointe-Colette-01.jpg)
+[西多妮·加布里埃尔·科莱特](https://media.newyorker.com/photos/6372c083f6225a8c64446eb3/master/w_1920,c_limit/LaPointe-Colette-01.jpg)
 
 The Letter.
