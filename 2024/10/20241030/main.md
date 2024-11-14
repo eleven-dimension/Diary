@@ -6,7 +6,7 @@
 
 dp
 
-![alt text](image.png)
+![alt text](image_00.png)
 
 写个插件屏蔽首页讨论区。放下助人情结，尊重他人命运。
 
